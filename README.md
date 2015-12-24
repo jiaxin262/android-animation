@@ -1,2 +1,3 @@
 # android-animation
-Android animation practice
+Android animation practice；
+Based on BaseAnimation;
